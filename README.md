@@ -1,5 +1,5 @@
 # Novella game
-The game presents 3 different endings, which are determined by choices made by the user during the game.
+The game presents 3 different endings, which are determined by choices made by the user during the game. 
 
 Used all basic Python constructions.
 
